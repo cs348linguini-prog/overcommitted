@@ -6,7 +6,7 @@
 # --- Configuration ---
 # Set the number of commits before each push.
 # You can change this value to any positive integer.
-COMMITS_PER_PUSH=1000
+COMMITS_PER_PUSH=10000
 
 # The commit message for each empty commit.
 COMMIT_MESSAGE="Empty commit"
